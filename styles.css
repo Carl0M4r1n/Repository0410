@@ -9,3 +9,12 @@ header {
     padding: 10px 0;
     text-align: left;
 }
+main {
+    color: white;
+    font-size: 50px;
+}
+form{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
